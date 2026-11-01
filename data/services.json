@@ -1643,7 +1643,7 @@
   {
     "id": "yahoo",
     "name": "Yahoo! JAPAN",
-    "operator": "unverified",
+    "operator": "LINEヤフー株式会社",
     "category": "info",
     "mostly_unverified": false,
     "official_domains": [
@@ -1858,7 +1858,7 @@
   {
     "id": "etax",
     "name": "e-Tax",
-    "operator": "unverified",
+    "operator": "国税庁",
     "category": "gov",
     "mostly_unverified": false,
     "official_domains": [
@@ -1931,7 +1931,7 @@
   {
     "id": "cmoa",
     "name": "コミックシーモア",
-    "operator": "unverified",
+    "operator": "NTTソルマーレ株式会社",
     "category": "media",
     "mostly_unverified": false,
     "official_domains": [
